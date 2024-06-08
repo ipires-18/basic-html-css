@@ -134,4 +134,4 @@ CSS3: Utilizado para estilizar o conteúdo da página.
 
 ## Conclusão
 
-Neste projeto, o aprendizado de criar uma página HTML básica e aplicar estilos CSS para melhorar a aparência do conteúdo. Foi utilizado o Google Fonts para importar fontes externas e garantir uma aparência mais profissional. O conhecimento adquirido pode ser expandido para criar páginas web mais complexas e interativas.
+Neste projeto, o aprendizado foi de criar uma página HTML básica e aplicar estilos CSS para melhorar a aparência do conteúdo. Foi utilizado o Google Fonts para importar fontes externas e garantir uma aparência mais profissional. O conhecimento adquirido pode ser expandido para criar páginas web mais complexas e interativas.
